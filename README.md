@@ -1,8 +1,9 @@
-<img align="right" alt="Coding" width="4000" src="https://indusuni.ac.in/uploads/blogs/iite/Understanding,P20the,P20Hype,P20Around,P20Machine,P20Learning.gif.pagespeed.ce.oi7Wy3vTsY.gif">
+<img width="1600" height="800" alt="image" src="https://github.com/user-attachments/assets/a34b594b-83a4-4696-9ca9-3f6bcc91051c" />
+">
 <br>
 <h1 align="center">Hi 👋, I'm Moniruzzaman Khan</h1>
 <h3 align="center">A passionate  Data Analyst and Machine Learning expert from Bangladesh</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mk1910003" alt="mk1910003" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
